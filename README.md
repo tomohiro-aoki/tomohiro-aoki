@@ -1,8 +1,5 @@
-<p align="left">
-  <a href="https://github.com/tomohiro-aoki/tomohiro-aoki/">
-    <img src="https://komarev.com/ghpvc/?username=tomohiro-aoki" alt="tomohiro-aoki" />
-  </a>
-  <a href="https://github.com/tomohiro-aoki">
-    <img height="20" src="https://img.shields.io/github/followers/tomohiro-aoki?label=follow&logo=github&style=flat" />
-  </a>
-</p>
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=tomohiro-aoki&theme=dark_lover)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tomohiro-aoki&theme=gruvbox)](http://github-profile-summary-cards.vercel.app/api/cards/profile-details)
